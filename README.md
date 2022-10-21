@@ -18,8 +18,8 @@
 <br>
 
 ## 4. 소개 및 시연 연상
-
-**추가예정**
+**부산대학교 23조 Rust 자가 학습 사이트 개발**
+[![23조 Rust 자가 학습 사이트 개발](http://img.youtube.com/vi/9omFqdKBfBg/0.jpg)](https://www.youtube.com/watch?v=9omFqdKBfBg)    
 <br>
 
 ## 5. 개발 도구
